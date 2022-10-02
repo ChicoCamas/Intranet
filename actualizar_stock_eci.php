@@ -36,7 +36,7 @@ $ArrayDatos = 0;
     $rsConsulta = chg_mssql_query($con_db, $sql_stock,$aSQLParametros);
     $ArrayDatos = chg_mssql_rs2arr($rsConsulta);
 
-    //Hacer fichero asdfasdasd
+    //Hacer fichero chico
     
        
     
